@@ -12,3 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=malikkotb&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=malikkotb&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats)
