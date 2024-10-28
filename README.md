@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪩 Feel free to checkout my [portfolio](https://malikkotb.github.io/m-k.io/) website!<br>
+🪩 Feel free to checkout my [portfolio](https://www.malikkotb.com/) website!<br>
 📝 Check out my [creative development blog](https://malikkotb.github.io/blog/) !<br>📮 Studied Computer Science: Games Engineering at TUM<br>🧰 I build with: JavaScript, TypeScript, Next.js, Vue.js, Python, and TailwindCSS<br>⚡ I enjoy reading, playing basketball, and lifting weights :)<br>📫 Reach out to me: malikkotb@icloud.com
 
 
